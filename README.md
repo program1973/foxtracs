@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Explorer Cleanup (#7364)
