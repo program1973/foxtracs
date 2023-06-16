@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Update OpenVINO INT8 export (#7515)
