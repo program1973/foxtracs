@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
