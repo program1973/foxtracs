@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Allow Annotator PIL.Image inputs (#8397)
