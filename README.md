@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Add OBB save_txt feature (#7450)
