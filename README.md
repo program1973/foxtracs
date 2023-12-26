@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+OBB: Fix plot_images (#7592)
