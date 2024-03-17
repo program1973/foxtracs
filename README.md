@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Add horizontal Mosaic3 augmentation (#6898)
