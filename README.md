@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Fix PNNX ubuntu -> linux bug (#7050)
