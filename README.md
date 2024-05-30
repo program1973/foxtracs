@@ -1,1 +1,1 @@
-ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
