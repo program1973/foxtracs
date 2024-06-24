@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Add ONNX Docs integrations page (#7802)
