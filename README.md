@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
