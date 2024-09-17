@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
